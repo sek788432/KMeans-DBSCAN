@@ -11,8 +11,8 @@ The repo contains implementations and comparison of two clustering algorithms:
 - [Abalone](./data/abalone.csv)
 
 ## Algorithm Concept and Introduction
-- [DBSCAN](./DBSCAN_intro.pptx)
-- [Kmeans](./Kmeans_intro.pptx)
+- [DBSCAN](./DBSCAN_Intro.pptx)
+- [Kmeans](./Kmeans_Intro.pptx)
 
 ## Algorithm Comparison
 - [Kmeans VS DBSCAN](./Kmeans_VS_DBSCAN.ipynb)
