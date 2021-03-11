@@ -30,7 +30,7 @@ The repo contains implementations and comparison of two clustering algorithms:
 
 ## Future Work
 - Using numpy array instead of list to improve execution time
-- Add more arguments and error handling statements to make function more flexible and steady
+- Add more arguments and error handling statements to make the functions more flexible and steady
 
 ## Reference
 - https://www.researchgate.net/figure/Pseudocode-of-the-DBSCAN-algorithm_fig2_325059373
