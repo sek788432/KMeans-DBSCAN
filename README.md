@@ -1,8 +1,8 @@
-# Kmeans-DBSCAN
+# KMeans-DBSCAN
 
 
 The repo contains implementations and comparison of two clustering algorithms:
-- Kmeans++
+- KMeans++
 - DBSCAN
 
 
@@ -12,17 +12,17 @@ The repo contains implementations and comparison of two clustering algorithms:
 
 ## Algorithm Concept and Introduction
 - [DBSCAN](./DBSCAN_Intro.pptx)
-- [Kmeans](./Kmeans_Intro.pptx)
+- [KMeans](./Kmeans_Intro.pptx)
 
 ## Algorithm Comparison
-- [Kmeans VS DBSCAN](./Kmeans_VS_DBSCAN.ipynb)
+- [KMeans VS DBSCAN](./Kmeans_VS_DBSCAN.ipynb)
 
 ## Reference Psuedo Code
 
-### Kmeans
+### KMeans
 ![image](./readme_img/kmeans.PNG)
 
-### Kmeans++
+### KMeans++
 ![image](./readme_img/kmeans++.PNG)
 
 ### DBSCAN
