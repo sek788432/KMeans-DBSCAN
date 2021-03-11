@@ -1,4 +1,4 @@
-# Clustering-Algorithms
+# Kmeans-DBSCAN
 
 
 The repo contains implementations and comparison of two clustering algorithms:
